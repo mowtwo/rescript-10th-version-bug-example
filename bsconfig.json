@@ -1,0 +1,13 @@
+{
+  "name": "@mowtwo/rescript-reactive",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ],
+  "suffix": ".bs.js",
+  "bs-dependencies": [],
+  "bs-dev-dependencies": []
+}
