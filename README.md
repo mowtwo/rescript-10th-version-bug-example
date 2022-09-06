@@ -10,4 +10,4 @@
 
 #### js
 
-![](./assets/js.jpg)
+![](./assets/bsjs.jpg)
